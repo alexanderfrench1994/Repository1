@@ -1,1 +1,1 @@
-# Repository1 - master branch
+# Repository1 - apprentice branch
